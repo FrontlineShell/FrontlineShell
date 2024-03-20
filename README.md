@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Shell, an IT Professional
-  <a href="https://linkedin.com/FrontlineShell>
+  
 
 <h2> Information Technology Projects:</h2>
 
