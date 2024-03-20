@@ -1,5 +1,6 @@
 
-<h1>Hi, I'm Shell, an <a href="https://linkedin.com/FrontlineShell>IT Professional</a>☺</h1>
+<h1>Hi, I'm Shell, an IT Professional
+  <a href="https://linkedin.com/FrontlineShell>
 
 <h2> Information Technology Projects:</h2>
 
